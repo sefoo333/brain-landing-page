@@ -37,7 +37,7 @@ function Navbar() {
       <div className="flex items-center gap-4">
         <div className="sm:flex sm:gap-4">
           <a
-            className="rounded-md bg-purple-600 px-5 py-2.5 text-sm font-semibold text-white shadow-sm"
+            className="rounded-md bg-[#473BF0] hover:bg-[#473bf0d5] px-5 py-2.5 text-sm font-semibold text-white shadow-sm"
             href="#"
           >
             Start with here
