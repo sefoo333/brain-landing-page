@@ -30,7 +30,7 @@ function Plans() {
 
 <p className='text-slate-600 text-center text-[16px] leading-7 mb-10'>Lorem ipsum dolor sit amet consectetur adipisicing elit temporibus odit neque. Deserunt natus in reiciendis eos sit itaque.</p>
 
-<Button variant={"default"} className='mt-5 bg-[#473BF0] w-full p-15 py-7 text-md' size={"lg"}>Get Started For Free</Button>
+<Button variant={"default"} className='mt-5 bg-[#473BF0] w-full p-15 py-7 text-md hover:bg-[#473bf0d5]' size={"lg"}>Get Started For Free</Button>
 
         </div>
         <div className="plan p-10 rounded-md bg-white flex flex-col items-center justify-center gap-5 mt-10">
@@ -44,7 +44,7 @@ function Plans() {
 
 <p className='text-slate-600 text-center text-[16px] leading-7 mb-10'>Lorem ipsum dolor sit amet consectetur adipisicing elit temporibus odit neque. Deserunt natus in reiciendis eos sit itaque.</p>
 
-<Button variant={"default"} className='mt-5 bg-[#473BF0] w-full p-15 py-7 text-md' size={"lg"}>Get Started For Free</Button>
+<Button variant={"default"} className='mt-5 bg-[#473BF0] w-full p-15 py-7 text-md hover:bg-[#473bf0d5]' size={"lg"}>Get Started For Free</Button>
 
         </div>
         <div className="plan p-10 rounded-md bg-white flex flex-col items-center justify-center gap-5 mt-10">
@@ -58,7 +58,7 @@ function Plans() {
 
 <p className='text-slate-600 text-center text-[16px] leading-7 mb-10'>Lorem ipsum dolor sit amet consectetur adipisicing elit temporibus odit neque. Deserunt natus in reiciendis eos sit itaque.</p>
 
-<Button variant={"default"} className='mt-5 bg-[#473BF0] w-full p-15 py-7 text-md' size={"lg"}>Get Started For Free</Button>
+<Button variant={"default"} className='mt-5 bg-[#473BF0] w-full p-15 py-7 text-md hover:bg-[#473bf0d5]' size={"lg"}>Get Started For Free</Button>
 
         </div>
       
