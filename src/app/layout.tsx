@@ -12,7 +12,7 @@ const RubikSans = Rubik({
 
 
 export const metadata: Metadata = {
-  title: "Brain Website",
+  title: "BrainWave",
   description: "Created By Seifeldeen Ali",
 };
 
