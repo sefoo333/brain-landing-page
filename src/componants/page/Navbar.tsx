@@ -8,7 +8,7 @@ function Navbar() {
     <div className="flex h-16 items-center justify-between">
       <div className="md:flex md:items-center md:gap-12">
         <a className="block text-black" href="#">
-         <h1 className={` font-bold text-2xl`}>WebsiteLogo</h1>
+         <h1 className={` font-bold text-2xl`}>BrainWave</h1>
         </a>
       </div>
 
